@@ -3,8 +3,9 @@
 SignSense is a Python application that uses computer vision and machine learning to translate American Sign Language (ASL) gestures into text in real-time. Built with a MediaPipe backend and a Streamlit frontend, it provides an intuitive and seamless communication bridge.
 
 <p align="center">
-<img src="C:\Users\Sakshi\Downloads\signsenseimg1.jpg" alt="Screenshot" border="0">
-<img src="https://i.ibb.co/gbFWmxkB/demo.png" alt="demo" border="0">
+<img <a href="https://ibb.co/xtRXW021"><img src="https://i.ibb.co/LX2YmW0x/signsenseimg3.jpg" alt="signsenseimg3" border="0"></a>
+<a href="https://ibb.co/60mJyZBH"><img src="https://i.ibb.co/fd2GXSvk/signsenseimg2.jpg" alt="signsenseimg2" border="0"></a>
+<a href="https://ibb.co/cKFD946N"><img src="https://i.ibb.co/0pMhLHCf/signsenseimg1.jpg" alt="signsenseimg1" border="0"></a><br /><a target='_blank' href='https://usefulwebtool.com/fr/clavier-russe'>traduction francais cyrillique</a><br />>
 </p>
 
 ## 🌟 Key Features
